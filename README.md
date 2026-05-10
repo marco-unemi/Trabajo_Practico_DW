@@ -9,7 +9,7 @@
 
 **Instalar la extension Live Server**
 Ir a Extensiones en VScode, buscar "live server" e instalar la primera extension**
-![alt text](images/InstallOLS.png.png)
+![alt text](images/InstallOLS.png)
 
 ## Proceso de Ejecución
 1. Crear una carpeta en la ruta de su preferencia.
@@ -30,4 +30,4 @@ git clone https://github.com/marco-unemi/Trabajo_Practico_DW.git
 ![alt text](images/OpenLS.png)
 
 6. Resultado
-![alt text](images/resultado.png.png)
+![alt text](images/resultado.png)
