@@ -29,5 +29,5 @@ git clone https://github.com/marco-unemi/Trabajo_Practico_DW.git
 5. Buscar el archivo **index.html**, darle clic derecho y seleccionar **Open with Live Server**.                                    
 ![alt text](images/OpenLS.png)
 
-6. Resultado                                                                                                                            
-![alt text](images/resultado.png)
+6. Resultado
+![alt text](images/resultado.png.png)
