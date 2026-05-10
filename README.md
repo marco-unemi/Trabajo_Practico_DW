@@ -14,7 +14,7 @@ Ir a Extensiones en VScode, buscar "live server" e instalar la primera extension
 ## Proceso de Ejecución
 1. Crear una carpeta en la ruta de su preferencia.                                                  
 
-2. Entrar a la carpeta, clic derecho, mas opciones y brir la terminal de Git bash.                                     
+2. Entrar a la carpeta, clic derecho, mas opciones y brir la terminal de Git bash                                     
 ![alt text](images/abrirGitBash.png)
 
 3. Clonar el repositorio por medio de git bash.                                                                               
